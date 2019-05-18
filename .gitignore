@@ -1,0 +1,5 @@
+/compressed/*
+/uncompressed/*
+*.rar
+index2.php
+index.php
